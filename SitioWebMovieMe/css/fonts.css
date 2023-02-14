@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "roboto-regular";
+    src: url(../font/roboto-regular.ttf);
+}
+@font-face {
+    font-family: "lemonmilk-regular";
+    src: url(../font/lemonmilk-regular.otf);
+}
+@font-face {
+    font-family: "josefinsans";
+    src: url(../font/josefinsans.ttf);
+}
+@font-face {
+    font-family: "opensans-regular";
+    src: url(../font/opensans-regular.ttf);
+}

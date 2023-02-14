@@ -1,0 +1,60 @@
+.logo{
+    width: 17%;
+    height: 30%;
+    margin-left: 70px;
+    margin-top: -18px;
+    position: absolute;
+    z-index: auto;
+}
+nav{
+    width: auto;
+    height: 150px;
+    background: #010221;
+    
+}
+ul{
+    margin-left: 300px;
+    position: absolute;
+    z-index: auto;
+    margin-top: 63px;
+}
+li,a{
+    display: inline;
+    color:rgb(255, 255, 255);
+    font-size: 18px;
+    text-decoration: none;
+    font-family: 'lemonmilk-regular';
+    padding: 10px;
+    margin-top: 30px;
+    
+}
+li:hover{
+    cursor: pointer;
+    color:#000;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'lemonmilk-regular';
+    padding: 10px;
+    margin-top: 10px;
+    background: #EDAA25;
+    border-radius: 10px;
+    transition: 1s;
+
+}
+.buscador{
+    width: 20%;
+    height: 6%;
+    margin-left: 1000px;
+    margin-top: 15px;
+    position: absolute;
+    z-index: auto;
+    border-radius: 50px;
+    text-align: center;
+    opacity: 90%;
+    color:#fff;
+    border-style: none;
+}
+.foot{
+    font-family: "opensans-regular";
+    color: white;
+}

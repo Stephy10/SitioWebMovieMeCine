@@ -1,0 +1,451 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #B7BF99;
+}
+section{
+    
+    width: auto;
+    height: 250px;
+}
+#cine{
+    
+    width: auto;
+    height: 230px;
+}
+#cine1{
+   
+    width: auto;
+    height: 230px;
+}
+#cine2{
+   
+    width: auto;
+    height: 230px;
+}
+footer{
+    width: auto;
+    height: 120px;
+    background-color: #010221;
+}
+/*****************************/
+section{
+    width: auto;
+    height: 890px;
+    background: #B7BF99;
+}
+.car{
+    width: 970px;
+    height: 30px;
+    background:#2F7553;
+    border-radius: 15px;
+    text-align: left;
+    color:#fff;
+    font-size: 23px;
+    padding: 8px 0px 10px 25px;
+    margin-top: 10px;
+    margin-left: 172px;
+    position: absolute;
+    z-index: auto;
+    font-family: "lemonmilk-regular";
+}
+.concarte1{
+    width: 230px;
+    height: 322px;
+   
+    border-radius: 15px;
+    margin-left: 90px;
+    margin-top: 80px;
+    position: absolute;
+    z-index: auto;
+}
+.concarte2{
+    width: 230px;
+    height: 322px;
+    
+    border-radius: 15px;
+    margin-left: 343px;
+    margin-top: 80px;
+    position: absolute;
+    z-index: auto;
+}
+.concarte3{
+    width: 230px;
+    height: 322px;
+
+    border-radius: 15px;
+    margin-left: 599px;
+    margin-top: 80px;
+    position: absolute;
+    z-index: auto;
+}
+.concarte4{
+    width: 230px;
+    height: 322px;
+
+    border-radius: 15px;
+    margin-left: 853px;
+    margin-top: 80px;
+    position: absolute;
+    z-index: auto;
+}
+figure{
+    margin-left: 83px;
+}
+.cartele{
+    width: 200px;
+    height: 300px;
+    margin-left: 16px;
+    margin-top: 10px;
+    border-radius: 4px;
+    box-shadow: 0px 10px 10px 0px rgb(68, 68, 68);
+ 
+
+}
+   
+/********************************
+.carinfo1{
+    width: 200px;
+    height: 100px;
+    border-radius: 15px;
+    background-color: #2F7553;
+    color:#fff;
+    font-size: 19px;
+    font-family:"josefinsans";
+    padding: 10px;
+    margin-left: -185px;
+    margin-top: 429px;
+    position: absolute;
+    z-index: auto;
+}************************************/
+
+/*.nombre{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size: 14px;
+    color:#000;
+}*/
+
+.cajainfo{
+    color: white;
+    font-family: "josefinsans";
+    width: 175px;
+    height: 10px;
+    background:#2F7553;
+    border-radius: 15px 15px 0px 0px;
+    text-align: left;
+    padding: 8px 0px 10px 25px;
+    margin-top: 410px;
+    margin-left: 105px;
+    position: absolute;
+    z-index: auto;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+.horario{
+    color: white;
+    font-family: "opensans-regular";
+    width: 175px;
+    height: 33px;
+    background:#2F7553;
+    border-radius: 0px 0px 15px 15px;
+    text-align: top left;
+    color:rgb(206, 187, 187);
+    padding: 8px 0px 10px 25px;
+    margin-top: 430px;
+    margin-left: 105px;
+    position: absolute;
+    z-index: auto;
+    font-size: 12px;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+.cajainfo1{
+    color: white;
+    font-family: "josefinsans";
+    width: 175px;
+    height: 10px;
+    background:#2F7553;
+    border-radius: 15px 15px 0px 0px;
+    text-align: left;
+    padding: 8px 0px 10px 25px;
+    margin-top: 410px;
+    margin-left: 358px;
+    position: absolute;
+    z-index: auto;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+.horario1{
+    color: white;
+    font-family: "opensans-regular";
+    width: 175px;
+    height: 33px;
+    background:#2F7553;
+    border-radius: 0px 0px 15px 15px;
+    text-align: top left;
+    color:rgb(206, 187, 187);
+    padding: 8px 0px 10px 25px;
+    margin-top: 430px;
+    margin-left: 358px;
+    position: absolute;
+    z-index: auto;
+    font-size: 12px;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+.cajainfo2{
+    color: white;
+    font-family: "josefinsans";
+    width: 175px;
+    height: 10px;
+    background:#2F7553;
+    border-radius: 15px 15px 0px 0px;
+    text-align: left;
+    padding: 8px 0px 10px 25px;
+    margin-top: 410px;
+    margin-left: 615px;
+    position: absolute;
+    z-index: auto;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+.horario2{
+    color: white;
+    font-family: "opensans-regular";
+    width: 175px;
+    height: 33px;
+    background:#2F7553;
+    border-radius: 0px 0px 15px 15px;
+    text-align: top left;
+    color:rgb(206, 187, 187);
+    padding: 8px 0px 10px 25px;
+    margin-top: 430px;
+    margin-left: 615px;
+    position: absolute;
+    z-index: auto;
+    font-size: 12px;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+.cajainfo3{
+    color: white;
+    font-family: "josefinsans";
+    width: 175px;
+    height: 10px;
+    background:#2F7553;
+    border-radius: 15px 15px 0px 0px;
+    text-align: left;
+    padding: 8px 0px 10px 25px;
+    margin-top: 410px;
+    margin-left: 868px;
+    position: absolute;
+    z-index: auto;
+    font-size: 13px;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+.horario3{
+    color: white;
+    font-family: "opensans-regular";
+    width: 175px;
+    height: 33px;
+    background:#2F7553;
+    border-radius: 0px 0px 15px 15px;
+    text-align: top left;
+    color:rgb(206, 187, 187);
+    padding: 8px 0px 10px 25px;
+    margin-top: 430px;
+    margin-left: 868px;
+    position: absolute;
+    z-index: auto;
+    font-size: 12px;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+/*********proximos estrenos******/
+.prox{
+    width: 970px;
+    height: 30px;
+    background:#2F7553;
+    border-radius: 15px;
+    text-align: left;
+    color:#fff;
+    font-size: 23px;
+    padding: 8px 0px 10px 25px;
+    margin-top: -360px;
+    margin-left: 172px;
+    position: absolute;
+    z-index: auto;
+    font-family: "lemonmilk-regular";
+}
+.concarte5{
+    width: 230px;
+    height: 322px;
+   
+    border-radius: 15px;
+    margin-left: 90px;
+    margin-top: -290px;
+    position: absolute;
+    z-index: auto;
+}
+.concarte6{
+    width: 230px;
+    height: 322px;
+    
+    border-radius: 15px;
+    margin-left: 343px;
+    margin-top: -290px;
+    position: absolute;
+    z-index: auto;
+}
+.concarte7{
+    width: 230px;
+    height: 322px;
+
+    border-radius: 15px;
+    margin-left: 599px;
+    margin-top: -290px;
+    position: absolute;
+    z-index: auto;
+}
+.concarte8{
+    width: 230px;
+    height: 322px;
+
+    border-radius: 15px;
+    margin-left: 853px;
+    margin-top: -290px;
+    position: absolute;
+    z-index: auto;
+}
+.prox1{
+    width: 200px;
+    height: 300px;
+    margin-left: 16px;
+    margin-top: 10px;
+    border-radius: 4px;
+    box-shadow: 0px 10px 10px 0px rgb(68, 68, 68);
+}
+.cajainfo4{
+    color: white;
+    font-family: "josefinsans";
+    width: 175px;
+    height: 10px;
+    background:#2F7553;
+    border-radius: 15px 15px 0px 0px;
+    text-align: left;
+    padding: 8px 0px 10px 25px;
+    margin-top: 40px;
+    margin-left: 105px;
+    position: absolute;
+    z-index: auto;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+.horario4{
+    color: white;
+    font-family: "opensans-regular";
+    width: 175px;
+    height: 33px;
+    background:#2F7553;
+    border-radius: 0px 0px 15px 15px;
+    text-align: top left;
+    color:rgb(206, 187, 187);
+    padding: 8px 0px 10px 25px;
+    margin-top: 60px;
+    margin-left: 105px;
+    position: absolute;
+    z-index: auto;
+    font-size: 12px;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+.cajainfo5{
+    color: white;
+    font-family: "josefinsans";
+    width: 175px;
+    height: 10px;
+    background:#2F7553;
+    border-radius: 15px 15px 0px 0px;
+    text-align: left;
+    padding: 8px 0px 10px 25px;
+    margin-top: 40px;
+    margin-left: 358px;
+    position: absolute;
+    z-index: auto;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+.horario5{
+    color: white;
+    font-family: "opensans-regular";
+    width: 175px;
+    height: 33px;
+    background:#2F7553;
+    border-radius: 0px 0px 15px 15px;
+    text-align: top left;
+    color:rgb(206, 187, 187);
+    padding: 8px 0px 10px 25px;
+    margin-top: 60px;
+    margin-left: 358px;
+    position: absolute;
+    z-index: auto;
+    font-size: 12px;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+.cajainfo6{
+    color: white;
+    font-family: "josefinsans";
+    width: 175px;
+    height: 10px;
+    background:#2F7553;
+    border-radius: 15px 15px 0px 0px;
+    text-align: left;
+    padding: 8px 0px 10px 25px;
+    margin-top: 40px;
+    margin-left: 615px;
+    position: absolute;
+    z-index: auto;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+.horario6{
+    color: white;
+    font-family: "opensans-regular";
+    width: 175px;
+    height: 33px;
+    background:#2F7553;
+    border-radius: 0px 0px 15px 15px;
+    text-align: top left;
+    color:rgb(206, 187, 187);
+    padding: 8px 0px 10px 25px;
+    margin-top: 60px;
+    margin-left: 615px;
+    position: absolute;
+    z-index: auto;
+    font-size: 12px;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+.cajainfo7{
+    color: white;
+    font-family: "josefinsans";
+    width: 175px;
+    height: 10px;
+    background:#2F7553;
+    border-radius: 15px 15px 0px 0px;
+    text-align: left;
+    padding: 8px 0px 10px 25px;
+    margin-top: 40px;
+    margin-left: 868px;
+    position: absolute;
+    z-index: auto;
+    font-size: 13px;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}
+.horario7{
+    color: white;
+    font-family: "opensans-regular";
+    width: 175px;
+    height: 33px;
+    background:#2F7553;
+    border-radius: 0px 0px 15px 15px;
+    text-align: top left;
+    color:rgb(206, 187, 187);
+    padding: 8px 0px 10px 25px;
+    margin-top: 60px;
+    margin-left: 868px;
+    position: absolute;
+    z-index: auto;
+    font-size: 12px;
+    box-shadow: 10px 15px 30px 0px rgb(77, 77, 77);
+}

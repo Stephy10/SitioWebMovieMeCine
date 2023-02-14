@@ -1,0 +1,126 @@
+#contecarte {
+    width: 1024px;
+    height: 1000px;
+    border-radius: 25px;
+    background: #CFCDBC;
+    margin-left: 150px;
+    padding: 25px;
+    margin-bottom: 25px;
+    margin-top: -120px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #EDAA25;
+
+}
+
+.imgcar {
+    width: 250px;
+    height: 290px;
+    margin-left: 15px;
+    border-radius: 8px;
+
+}
+
+#titucar {
+    color: #000;
+    font-size: 33px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 460px;
+    margin-top: -290px;
+    text-align: justify;
+}
+
+#titucar1 {
+    color: #000;
+    font-size: 23px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 320px;
+    padding: 10px;
+    margin-top: 45px;
+
+}
+
+#parracar {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-top: -70px;
+    margin-left: 250px;
+    padding: 80px;
+
+
+}
+
+.subcar {
+    color: #000;
+    font-size: 23px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+
+.parrainfo {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 35px;
+    padding: 7px;
+}
+
+.subcar1 {
+    color: #000;
+    font-size: 23px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+
+.parrainfo1 {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 35px;
+    padding: 7px;
+}
+
+.trailercar {
+    width: 800px;
+    height: 350px;
+    margin-left: 70px;
+    margin-top: -10px;
+    border-style: solid;
+    border-color: beige;
+    border-radius: 15px;
+    padding: 50px;
+
+}
+
+.btncar {
+
+    width: 200px;
+    height: 80px;
+    border-radius: 15px;
+    padding: 10px;
+    color: #000;
+    text-align: center;
+    background: #F5AA1A;
+    margin-left: 380px;
+    margin-right: 50px;
+    margin-top: -1010px;
+    
+    
+}
+
+.btncar:hover {
+    color: rgb(41, 51, 61);
+    background: #ffa703;
+    border: 1px solid #ccc;
+    cursor: pointer;
+
+}

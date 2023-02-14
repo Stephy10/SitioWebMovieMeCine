@@ -1,0 +1,145 @@
+body{
+    background: #b7bf99;
+}
+#cuadro{
+    width: 1024px;
+    height: 150px;
+    border-radius: 25px;
+    background: #CFCDBC;
+    margin-top: 10px;
+    padding: 20px;
+}
+.comentra, h3{
+    font-size: 23px;
+    color:#000;
+    margin-left: 45px;
+}
+.infor1{
+    margin-left: 45px;
+    color:#000000;
+    font-size: 15px;
+    display: inline;
+    margin-top: 45px;
+    position: absolute;
+}
+.infor2{
+    margin-left: 195px;
+    color:#000000;
+    font-size: 15px;
+    display: inline;
+    margin-top: 45px;
+    position: absolute;
+}
+.infor3{
+    margin-left: 345px;
+    color:#000000;
+    font-size: 15px;
+    display: inline;
+    margin-top: 45px;
+    position: absolute;
+}
+.infor4{
+    margin-left: 545px;
+    color:#000000;
+    font-size: 15px;
+    display: inline;
+    margin-top: 45px;
+    position: absolute;
+}
+.infor5{
+    margin-left: 745px;
+    color:#000000;
+    font-size: 15px;
+    display: inline;
+    margin-top: 45px;
+    position: absolute;
+}
+
+/********************************* Fin Datos *****************************************************/
+#si{
+    width: 450px;
+    height: 790px;
+    border-radius: 15px;
+    background: #CFCDBC;
+    margin-left: 123px;
+    margin-top: 19px;
+    margin-bottom: 45px;
+}
+.sipnh{
+    width:450px;
+    height: 580px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.sinosis{
+    color:#000;
+    font-size: 23px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 38px;
+    padding: 6px;
+    margin-top:15px;
+    position: absolute;
+}
+.sis{
+    text-align: justify;
+    padding: 40px;
+    margin-top: -23px;
+}
+hr{
+    width: 430px;
+    margin-top: 45px;   
+}
+/*************************************** SIPNOSIS **********************/
+
+#formu{
+    width: 550px;
+    height: 730px;
+    border-radius: 15px;
+    background: #f7f6ec;
+    margin-left: 583px;
+    margin-top: -835px;
+    padding: 30px;
+    margin-bottom: 45px;
+}
+/*********************************fin SIPNOSIS *****************************/
+.datosusuario{
+    border-radius: 5px;
+    /*border:1px solid #ccc;*/
+    width: auto;
+    height: 560px;
+    margin-top: 20px;
+    padding: 30px ;
+}
+.datosusuario label{
+    font-size: 25px;
+    color:#000000;
+    margin-left: 10px;
+    padding: 0px 10px 40px 0px;
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+}
+.datosusuario input{
+    margin-left: 145px;
+    margin-top: -70px;
+    position: absolute;
+    width: 350px;
+    height: 25px;
+    border-radius: 4px;
+}
+.btt{
+    width: 152px;
+    height: 40px;
+    border-radius: 10px;
+    padding: 8px;
+    color:#000;
+    text-align: center;
+    background: #F5AA1A;
+    margin-left: 345px;
+}
+.btt:hover{
+    color:rgb(41, 51, 61);
+    background: #ffa703;
+    border:1px solid #ccc;
+    cursor: pointer;
+    
+}
